@@ -1,0 +1,12 @@
+baseurl = "http://jahyun-dev.github.io/"
+title = "JH LOG"
+author = "Jahyun Gu"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "JH LOG"
