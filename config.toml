@@ -1,8 +1,8 @@
-baseurl = "http://jahyun-dev.github.io"
+baseurl = "https://jahyun-dev.github.io"
+languageCode = "en"
 title = "DEV LOG"
 author = "Jahyun Gu"
 canonifyurls = true
-languagecode = "en"
 theme = "hucore"
 disqusShortname = "jhlog"
 
