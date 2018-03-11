@@ -1,12 +1,17 @@
 baseurl = "http://jahyun-dev.github.io/"
-title = "JH LOG"
+title = "DEV LOG"
 author = "Jahyun Gu"
 canonifyurls = true
 languagecode = "en"
-theme = "black-and-light"
+theme = "hucore"
+disqusShortname = "jhlog"
 
-pygmentsstyle       = "bw"
-pygmentscodefences  = true
+[taxonomies]
+tag = "tags"
+category = "categories"
 
 [params]
-  sitename = "JH LOG"
+keywords = ["cryptocurrency", "programming"]
+author = "Jahyun Koo"
+sharingicons = true
+
