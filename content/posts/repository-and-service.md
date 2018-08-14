@@ -2,7 +2,7 @@
 date = "2018-07-07T14:17:27+09:00"
 title = "Repository와 Service"
 author = "구자현"
-draft = false
+draft = true
 tags = ["DDD","Programming"]
 categories = ["Programming"]
 description = "ddd description"
